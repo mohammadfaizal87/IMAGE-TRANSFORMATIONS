@@ -133,8 +133,8 @@ plt.axis('off')
 ## Output:
 
 ## Original image
+<img width="623" height="437" alt="image" src="https://github.com/user-attachments/assets/3044fb4f-5f7d-439e-ba34-8e12773de293" />
 
-<img width="643" height="557" alt="image" src="https://github.com/user-attachments/assets/a4dd198c-992c-4380-b7af-ae930c199cec" />
 
 
 
@@ -142,7 +142,8 @@ plt.axis('off')
 ### i)Image Translation
 
 
-<img width="762" height="506" alt="image" src="https://github.com/user-attachments/assets/b5c2a135-65d0-4c27-be4c-f55bfc46c8e3" />
+<img width="619" height="429" alt="image" src="https://github.com/user-attachments/assets/c058b5a9-d26f-45c8-94c0-aa693b4fe0ba" />
+
 
 
 
@@ -150,15 +151,15 @@ plt.axis('off')
 ### ii) Image Scaling
 
 
-<img width="717" height="338" alt="image" src="https://github.com/user-attachments/assets/c4409628-e254-4025-b74a-2e707070587a" />
+<img width="620" height="174" alt="image" src="https://github.com/user-attachments/assets/39004e45-c69f-413b-9b29-32aa60ace356" />
+
 
 
 
 
 ### iii)Image shearing
 
-
-<img width="725" height="565" alt="image" src="https://github.com/user-attachments/assets/2e0c49d6-f853-4ab6-9a0f-7ae0c8e764f8" />
+<img width="616" height="431" alt="image" src="https://github.com/user-attachments/assets/097e131c-22e8-45fd-8ae1-34c4d82ad33c" />
 
 
 
@@ -166,7 +167,7 @@ plt.axis('off')
 ### iv)Image Reflection
 
 
-<img width="703" height="550" alt="image" src="https://github.com/user-attachments/assets/4f7cbd51-02e3-4a13-a879-fdfd0d9e809f" />
+<img width="621" height="425" alt="image" src="https://github.com/user-attachments/assets/b44a35c5-3b2f-41da-9838-6f7acea1917d" />
 
 
 
@@ -175,15 +176,15 @@ plt.axis('off')
 ### v)Image Rotation
 
 
-<img width="603" height="532" alt="image" src="https://github.com/user-attachments/assets/7fe50818-98ad-49f5-aeb6-9838e13ccf6f" />
+<img width="462" height="463" alt="image" src="https://github.com/user-attachments/assets/1a9e8695-6358-4d0f-91c5-42bc48ed6d2b" />
+
 
 
 
 
 ### vi)Image Cropping
 
-
-<img width="641" height="567" alt="image" src="https://github.com/user-attachments/assets/a665d0b8-1b45-440f-900b-10a9528cbbce" />
+<img width="620" height="461" alt="image" src="https://github.com/user-attachments/assets/31ea3910-9199-42b1-96fb-2b51b177b111" />
 
 
 
